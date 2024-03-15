@@ -9,7 +9,7 @@
   <img align="center" alt="Cks-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-
+<br>
 
 - 💻 2/6 - Desenvolvimento de Software Multiplataforma - FATEC de Registro
 - 👨🏻‍🎓 Técnico em Análise e Desenvolvimento de Sistemas - ETEC de Registro 
