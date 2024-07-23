@@ -10,7 +10,7 @@
 
 <br>
 
-- 💻 2/6 - Desenvolvimento de Software Multiplataforma - FATEC de Registro
+- 💻 3/6 - Desenvolvimento de Software Multiplataforma - FATEC de Registro
 - 👨🏻‍🎓 Técnico em Análise e Desenvolvimento de Sistemas - ETEC de Registro 
 - 📍 Cananéia - SP 
 - 😀 Também conhecido como "CKS" 
