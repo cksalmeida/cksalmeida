@@ -1,6 +1,8 @@
 <h1 align="center">Hey! My name is Davi Mathais 🤙</h1>
 
-###
+- 💻 I'm a programmer passionate about technology and passionate about understanding how applications and systems work behind a beautiful interface. Currently I'm more focused on studying front-end technologies, but I'm very interested and whenever I get some time I take the opportunity to study back-end technologies as well.
+
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
