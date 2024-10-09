@@ -1,7 +1,7 @@
 <h1 align="center">Hey! My name is Davi Mathais 🤙🏻</h1>
 
 <p align="center">
- - 💻 I'm a programmer passionate about technology and passionate about understanding how applications and systems work behind a beautiful interface. Currently I am more focused on studying front-end technologies and this is my current area of ​​expertise, however I am very interested and whenever I have free time I take the opportunity to study back-end technologies as well.
+💻 I'm a programmer passionate about technology and passionate about understanding how applications and systems work behind a beautiful interface. Currently I am more focused on studying front-end technologies and this is my current area of ​​expertise, however I am very interested and whenever I have free time I take the opportunity to study back-end technologies as well.
 </p>
 
 <br>
